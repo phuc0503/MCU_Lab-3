@@ -1,0 +1,2 @@
+led_color.c:9:6:setLedColor1	16	static
+led_color.c:31:6:setLedColor2	16	static
